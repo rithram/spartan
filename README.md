@@ -1,4 +1,5 @@
 # Transformers Learn Faster with Semantic Focus
 
-> ⚠️ 🚧 **Under construction** <br>
+> [!NOTE]
+>  ⚠️ 🚧 **Under construction** <br>
 Code, results and plotting scripts coming soon!
