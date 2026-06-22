@@ -14,7 +14,7 @@
 
 Preliminary version:
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.19125-b31b1b.svg)](https://arxiv.org/abs/2506.14095)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.14095-b31b1b.svg)](https://arxiv.org/abs/2506.14095)
 
 </div>
 
