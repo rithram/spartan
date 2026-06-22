@@ -27,9 +27,9 @@ Various forms of sparse attention have been explored to mitigate the quadratic c
 
 ## Main Results
 
-## Environment setup
 
-### Installation
+
+### Environment setup
 
 Assuming CUDA is properly setup on the machine, we will be using python version 3.11
 
@@ -42,14 +42,14 @@ conda install cudatoolkit -c anaconda  # <== OPTIONAL: if we have access to a GP
 pip install -r requirements.txt
 ```
 
-## Experimental details
+### Experimental details
 
 - Data: [data.md](./data.md)
 - Training runs: [train.md](./train.md)
 - Figures: [pltcmds.md](./pltcmds.md)
 
 
-## Citation
+## Citing this work
 
 ```
 @article{ram2025transformers,
